@@ -1,0 +1,6 @@
+query_id,query_type,query,reference_answer,reference_evidence
+G01,factoid,What technology did onsemi announce will be integrated by Sineng Electric?,EliteSiC silicon carbide technology,Chunk 0
+G02,multi-hop,Which company acquired Zanaris and what type of services does Zanaris provide?,GreenPages acquired Zanaris, which provides IT automation cloud and DevOps services,Chunk 3
+G03,cross-doc,What is the focus of the Chief FOIA Officers' Council meeting and who co-chairs it?,The meeting focuses on FOIA and is co-chaired by the Director of OGIS and the Director of OIP,Chunk 7, Chunk 16
+G04,multi-hop,What is the significance of Kubernetes in the DevOps movement?,Kubernetes is a key plank in the DevOps movement for developing new applications and improving business operations,Chunk 5
+G05,cross-doc,What recent action did the Biden administration take regarding technology services?,The Biden administration appointed Ann Lewis as director of Technology Transformation Services,Chunk 49, Chunk 2
